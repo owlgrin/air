@@ -1,5 +1,7 @@
 (function(window, document, undefined) {
-	return {
+	'use strict';
+
+	window.air = {
 		/**
 		 * Starts a request
 		 * args = {};
